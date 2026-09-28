@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Injection Lab",
+      "hasCanvas": false,
+      "bodyTextLen": 784,
+      "bodyTextHash": "dacc953968b0c0943dc1690a300ac84a786823351ec69ae1d8265abb0c9ddcfb",
+      "bodyTextPrefix": "NORTHLINE · SECURITY STUDIO Injection Lab An office agent that c",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Injection Lab",
+      "hasCanvas": false,
+      "bodyTextLen": 784,
+      "bodyTextHash": "dacc953968b0c0943dc1690a300ac84a786823351ec69ae1d8265abb0c9ddcfb",
+      "bodyTextPrefix": "NORTHLINE · SECURITY STUDIO Injection Lab An office agent that c",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
